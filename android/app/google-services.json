@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310403474335",
+    "project_id": "nlfcs-387710",
+    "storage_bucket": "nlfcs-387710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310403474335:android:f37d989b36f5897236d3aa",
+        "android_client_info": {
+          "package_name": "com.stackon.nlfcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310403474335-vge8hlm0g2mud2qj3s2ee5ksgptnqgpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwaiguDRrXl8Sj7jcazt-GObBtnbl1BEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310403474335-vge8hlm0g2mud2qj3s2ee5ksgptnqgpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

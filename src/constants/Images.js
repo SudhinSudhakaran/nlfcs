@@ -1,0 +1,43 @@
+export default {
+  ADD_IMAGE_ICON: require('../assets/images/add_image_icon.png'),
+  IMAGE_ROUND_ICON: require('../assets/images/image_round.png'),
+  CLOSE_ICON: require('../assets/images/close-templated-icon.png'),
+  CAMERA_ICON: require('../assets/images/camera-icon.png'),
+  ANNOUNCEMENT_ICON: require('../assets/images/loudspeaker-with-two-sound-waves.png'),
+  LESS_THAN_ICON: require('../assets/images/less-than-symbol.png'),
+  LINE_ICON: require('../assets/images/line.png'),
+  ADMIN_ICON: require('../assets/images/user.png'),
+  GREATER_THAN_ICON: require('../assets/images/greater-than.png'),
+  COPY_ICON: require('../assets/images/copy.png'),
+  AADHAR_ICON: require('../assets/images/aadhar.png'),
+  CERTIFICATE_ICON: require('../assets/images/certificate.png'),
+  NLFCS_LOGO: require('../assets/images/nlfcs_logo.png'),
+  DOCUMENTS: require('../assets/images/documents.png'),
+  EYE_ICON: require('../assets/images/eyeViewIcon.png'),
+  DOC_1: require('../assets/images/doc1.png'),
+  FDR: require('../assets/images/fdr.png'),
+  FAQ: require('../assets/images/faq.png'),
+  ADMIN: require('../assets/images/admin.png'),
+  DEFAULT_PROFILE_IMAGE: require('../assets/images/defaultprofile.png'),
+
+  FOCUS: require('../assets/images/focus.png'),
+  RIGHT_ARROW: require('../assets/icons/right.png'),
+  SECURITY_ICON: require('../assets/images/security.png'),
+  CARD_BG: require('../assets/images/cardBacground.jpeg'),
+  // DOC_3: require('../assets/images/doc3.png'),
+  // DOC_4: require('../assets/images/doc4.png'),
+
+  // New images for new member card design
+
+  CARD: require('../assets/newImages/Rectangle1.png'),
+  FIRST_OVERLAY: require('../assets/newImages/Clippathgroup.png'),
+  SECOND_OVERLAY: require('../assets/newImages/Group.png'),
+  CHIP_ICON: require('../assets/newImages/chip1.png'),
+  BELL_ICON: require('../assets/newImages/bell1.png'),
+  HOME_ICON: require('../assets/newImages/home.png'),
+  MIC_ICON: require('../assets/newImages/speaker.png'),
+  WALLET: require('../assets/newImages/Wallet.png'),
+  DOCS: require('../assets/newImages/Report.png'),
+  NEW_FAQ: require('../assets/newImages/FAQ.png'),
+  NO_SIGNAL: require('../assets/images/no-signal.png')
+};
